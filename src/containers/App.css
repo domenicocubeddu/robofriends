@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'AXEON Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('AXEON Regular'), url('Axeon.woff') format('woff');
+}
+
+h1 { 
+	font-family: 'AXEON Regular';
+}
